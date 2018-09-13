@@ -1,6 +1,6 @@
 {
-    "name": "makeweb/wordpress-theme-detector",
-    "description": "Detect theme information in your wordpress installation",
+    "name": "makeweb/wordpress-inspector",
+    "description": "Detect theme information and other information about your wordpress installation",
     "type": "library",
     "authors": [
         {
@@ -8,5 +8,11 @@
             "email": "webspannerdev@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+    },
+    "autoload": {
+        "psr-4": {
+            "MakeWeb\\WordpressInspector\\": "src/"
+        }
+    }
 }
