@@ -1,0 +1,12 @@
+{
+    "name": "makeweb/wordpress-theme-detector",
+    "description": "Detect theme information in your wordpress installation",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Andrew Feeney",
+            "email": "webspannerdev@gmail.com"
+        }
+    ],
+    "require": {}
+}
