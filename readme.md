@@ -34,6 +34,10 @@ Returns true if the current theme has a parent theme.
 
 Returns true if the current theme is a child theme.
 
+#### ```usesDiviTheme()```
+
+Returns true if the Divi theme is installed.
+
 #### ```usesDiviBuilder()```
 
 Returns true if the Divi Builder plugin is installed.
